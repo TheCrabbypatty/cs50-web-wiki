@@ -56,3 +56,10 @@ wiki/
 
 * **Navigating the Django Multi-Folder Architecture**: Coming into Django, managing the distributed folder layout was a major hurdle. Constantly jumping between the project configuration folder (`wiki/`), the specific app directories (`encyclopedia/`), backend views (`views.py`), templates, and entry storage files required a steep mental learning curve. While tracking the connections between URLs, views, and templates was complicated at first, building this project ultimately made the system design click and demonstrated the scalability of isolating these components.
 
+
+
+## Last Updated
+
+<!-- TIMESTAMP_START -->
+_Last updated: 2026-08-30 18:51 UTC_
+<!-- TIMESTAMP_END -->
